@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hixon10.openfileinazuredevops.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hixon10.openfileinazuredevops.MyBundle
 
 class MyApplicationService {
 
