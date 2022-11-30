@@ -1,4 +1,4 @@
-# open-file-in-azure-devops
+# Open a project file in Azure DevOps
 
 ![Build](https://github.com/Hixon10/open-file-in-azure-devops/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)

@@ -1,7 +1,9 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# open-file-in-azure-devops Changelog
+# Open a project file in Azure DevOps plugin Changelog
 
-## [Unreleased]
+## [0.0.1] - 2022-12-01
+
 ### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+
+- Created an action, which opens the current file in Azure DevOps
