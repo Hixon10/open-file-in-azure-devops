@@ -5,7 +5,7 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
 <!-- Plugin description -->
-The plugin adds `Open File in Azure DevOps` action, which opens a current file **origin** `Azure DevOps` repo. 
+The plugin adds `Open File in Azure DevOps` action, which opens a current file in **origin** `Azure DevOps` repo. 
 
 You could assign an arbitrary hotkey to `Open File in Azure DevOps` action, or just execute it via `Actions` popup.
 <!-- Plugin description end -->
