@@ -1,8 +1,8 @@
 # Open a project file in Azure DevOps
 
 ![Build](https://github.com/Hixon10/open-file-in-azure-devops/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/com.github.hixon10.openfileinazuredevops.svg)](https://plugins.jetbrains.com/plugin/20548-open-a-project-file-in-azure-devops)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/com.github.hixon10.openfileinazuredevops.svg)](https://plugins.jetbrains.com/plugin/20548-open-a-project-file-in-azure-devops)
 
 <!-- Plugin description -->
 The plugin adds `Open File in Azure DevOps` action, which opens a current file in **origin** `Azure DevOps` repo. 
