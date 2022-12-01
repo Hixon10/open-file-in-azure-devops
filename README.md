@@ -19,7 +19,7 @@ You could assign an arbitrary hotkey to `Open File in Azure DevOps` action, or j
   
 - Manually:
 
-  Download the [latest release](https://github.com/Hixon10/open-file-in-azure-devops/releases/latest) and install it manually using
+  Download the [latest release](https://plugins.jetbrains.com/plugin/20548-open-a-project-file-in-azure-devops/versions) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 
